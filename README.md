@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Ruan%20Arthur&fontSize=42&fontColor=58A6FF&animation=fadeIn&fontAlignY=35" alt="banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=200&section=header&text=2ras&fontSize=72&fontColor=FFFFFF&fontAlignY=35&desc=Ruan%20Arthur&descAlignY=60&descSize=20&descColor=CCCCCC&animation=fadeIn" alt="banner" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=650&lines=%3E+Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+UFFS;%3E+Construindo+coisas+com+HTML%2C+CSS%2C+JS+e+Python;%3E+Fã+de+jogos+e+de+tudo+que+é+visual+%F0%9F%8E%AE;%3E+Sempre+em+modo+aprendizado..." alt="Typing SVG" />
 
@@ -12,7 +12,7 @@
 ruan@uffs ~ % whoami
 > Ruan Arthur (aka 2ras)
 > Classe: Estudante de Ciência da Computação — UFFS, SC
-> Stack: HTML · CSS · JavaScript · Python (básico/intermediário)
+> Stack: HTML · CSS · JavaScript · Python · React · Node · Supabase
 > Perks: gosto por jogos + fraco por qualquer coisa visual
 > Status: [■■■■■■■□□□] aprendendo sem parar
 ```
@@ -26,6 +26,9 @@ ruan@uffs ~ % whoami
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
@@ -40,18 +43,6 @@ ruan@uffs ~ % whoami
 
 <br>
 
-## 🐍 O jogo continua
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2rascode/2rascode/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2rascode/2rascode/output/github-snake.svg" />
-    <img alt="snake eating contribution graph" src="https://raw.githubusercontent.com/2rascode/2rascode/output/github-snake.svg" />
-  </picture>
-</p>
-
-<br>
-
 <!--
 🚀 Projetos em destaque — troque pelos seus repositórios reais
 ## 🚀 Projetos em destaque
@@ -61,7 +52,7 @@ ruan@uffs ~ % whoami
 | [nome-do-projeto](https://github.com/2rascode/nome-do-projeto) | Descrição curta do projeto | HTML · CSS · JS |
 -->
 
-## 🌐 Redes sociais
+## 🌐 O Social do bagual
 
 <p align="center">
   <a href="mailto:bothruanarthur@gmail.com">
@@ -78,6 +69,6 @@ ruan@uffs ~ % whoami
 
 <div align="center">
 
-💡 *Dica de carregamento: código bom é aquele que funciona — código ótimo é aquele que também é bonito de se olhar.*
+💡 *Dica de carregamento: SE FUNCIONA, NÃO MEXE!*
 
 </div>
