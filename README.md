@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=200&section=header&text=2ras&fontSize=72&fontColor=FFFFFF&fontAlignY=35&desc=Ruan%20Arthur&descAlignY=60&descSize=20&descColor=CCCCCC&animation=fadeIn" alt="banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=650&lines=%3E+Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+UFFS;%3E+Construindo+coisas+com+HTML%2C+CSS%2C+JS+e+Python;%3E+Fã+de+jogos+e+de+tudo+que+é+visual+%F0%9F%8E%AE;%3E+Sempre+em+modo+aprendizado..." alt="Typing SVG" />
-
 <br>
 
 <img src="assets/typing-code.svg" alt="Trecho de código sendo digitado" />
