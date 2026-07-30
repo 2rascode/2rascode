@@ -1,0 +1,20 @@
+<svg width="420" height="110" viewBox="0 0 420 110" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Trecho de código sendo digitado">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@500&amp;display=swap');
+    .code { font-family: 'Fira Code', 'Consolas', monospace; font-size: 20px; fill: #ffffff; }
+  </style>
+  <rect width="420" height="110" rx="14" fill="#000000"/>
+  <circle cx="22" cy="20" r="5" fill="#5a5a5a"/>
+  <circle cx="42" cy="20" r="5" fill="#5a5a5a"/>
+  <circle cx="62" cy="20" r="5" fill="#5a5a5a"/>
+  <clipPath id="typeClip">
+    <rect x="0" y="46" height="34" width="0">
+      <animate attributeName="width" values="0;336;336;0" keyTimes="0;0.5;0.85;1" dur="6s" repeatCount="indefinite"/>
+    </rect>
+  </clipPath>
+  <text x="24" y="66" class="code" clip-path="url(#typeClip)">while (true) { aprender(); }</text>
+  <rect y="48" width="10" height="26" fill="#ffffff">
+    <animate attributeName="x" values="24;360;360;24" keyTimes="0;0.5;0.85;1" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
+  </rect>
+</svg>

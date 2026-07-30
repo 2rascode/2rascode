@@ -73,6 +73,6 @@ ruan@uffs ~ % whoami
 
 <div align="center">
 
-💡 *Dica de carregamento: se funciona, não mexe*
+💡 *Dica de carregamento: código bom é aquele que funciona — código ótimo é aquele que também é bonito de se olhar.*
 
 </div>
