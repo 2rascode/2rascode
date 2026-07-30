@@ -1,22 +1,25 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Ruan+Arthur+%F0%9F%91%8B;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Apaixonado+por+jogos+e+visuais+%F0%9F%8E%AE;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Ruan%20Arthur&fontSize=42&fontColor=58A6FF&animation=fadeIn&fontAlignY=35" alt="banner" width="100%" />
 
-<img src="https://komarev.com/ghpvc/?username=2rascode&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=58A6FF&style=flat" alt="Contador de visitas" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=650&lines=%3E+Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+UFFS;%3E+Construindo+coisas+com+HTML%2C+CSS%2C+JS+e+Python;%3E+Fã+de+jogos+e+de+tudo+que+é+visual+%F0%9F%8E%AE;%3E+Sempre+em+modo+aprendizado..." alt="Typing SVG" />
 
 </div>
 
-## 👨‍💻 Sobre mim
+<br>
 
-- 🎓 Estudante de **Ciência da Computação** na **UFFS** (Universidade Federal da Fronteira Sul) — SC
-- 💻 Conhecimento em **HTML, CSS, JavaScript** e **Python** (básico a intermediário)
-- 🎮 Apaixonado por **jogos** e por criar **experiências visuais**
-- 🌱 Sempre explorando novas formas de unir código, design e criatividade
-- 📫 Como falar comigo: veja os links lá embaixo!
+```bash
+ruan@uffs ~ % whoami
+> Ruan Arthur (aka 2ras)
+> Classe: Estudante de Ciência da Computação — UFFS, SC
+> Stack: HTML · CSS · JavaScript · Python (básico/intermediário)
+> Perks: gosto por jogos + fraco por qualquer coisa visual
+> Status: [■■■■■■■□□□] aprendendo sem parar
+```
 
 <br>
 
-## 🛠️ Tecnologias
+## 🎒 Inventário
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -29,21 +32,28 @@
 
 <br>
 
-## 📊 Estatísticas do GitHub
+## 🔥 Combo atual
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2rascode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2rascode&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2rascode&hide_border=true&background=0D1117&stroke=58A6FF&ring=F72585&fire=F72585&currStreakLabel=58A6FF&sideLabels=8B8B8B&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B7280" alt="Streak de contribuições" />
 </p>
 
+<br>
+
+## 🐍 O jogo continua
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2rascode&theme=tokyonight&hide_border=true" alt="Streak de contribuições" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2rascode/2rascode/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2rascode/2rascode/output/github-snake.svg" />
+    <img alt="snake eating contribution graph" src="https://raw.githubusercontent.com/2rascode/2rascode/output/github-snake.svg" />
+  </picture>
 </p>
 
 <br>
 
 <!--
-🎮 Projetos em destaque — troque pelos seus repositórios reais
+🚀 Projetos em destaque — troque pelos seus repositórios reais
 ## 🚀 Projetos em destaque
 
 | Projeto | Descrição | Stack |
@@ -62,8 +72,12 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=2rascode&label=Jogadores%20que%20passaram%20por%20aqui&color=F72585&style=flat" alt="Contador de visitas" />
+</p>
+
 <div align="center">
 
-*"Código bom é aquele que funciona — código ótimo é aquele que também é bonito de olhar."* ✨
+💡 *Dica de carregamento: código bom é aquele que funciona — código ótimo é aquele que também é bonito de se olhar.*
 
 </div>
