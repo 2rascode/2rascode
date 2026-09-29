@@ -148,6 +148,6 @@ text { font-family: 'Courier New', Consolas, 'Liberation Mono', 'DejaVu Sans Mon
 <circle class="fade" style="animation-delay:3.70s" cx="637.5" cy="470" r="4" fill="#ffd966"/>
 <circle class="fade" style="animation-delay:3.78s" cx="657.5" cy="470" r="4" fill="#ff9b54"/>
 <circle class="fade" style="animation-delay:3.86s" cx="677.5" cy="470" r="4" fill="#ff5c6c"/>
-<text x="40" y="500" xml:space="preserve">PS C:\Users\visitante&gt; como que centraliza div????</text>
+<text x="40" y="500" xml:space="preserve">PS C:\Users\visitante&gt; como que centraliza div??</text>
 <rect class="blink" x="420" y="489" width="8" height="14" fill="#e9e3ff"/>
 </svg>
