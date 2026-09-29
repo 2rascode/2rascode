@@ -20,7 +20,7 @@ text { font-family: 'Courier New', Consolas, 'Liberation Mono', 'DejaVu Sans Mon
 </style>
 <rect width="840" height="258" fill="#040804"/>
 <g class="crt" filter="url(#glow)">
-<text x="420.0" y="28" class="hi" text-anchor="middle" xml:space="preserve">&lt;&lt;&lt; RUAN BULLETIN BOARD SYSTEM &gt;&gt;&gt;</text>
+<text x="420.0" y="28" class="hi" text-anchor="middle" xml:space="preserve">&lt;&lt;&lt; BULLETIN BOARD SYSTEM &gt;&gt;&gt;</text>
 <rect x="40" y="42" width="760" height="1.5" fill="#1c4a22"/>
 <rect x="240.5" y="70.5" width="15.0" height="15.0" fill="#1c4a22"/>
 <rect x="256.5" y="70.5" width="15.0" height="15.0" fill="#1c4a22"/>
