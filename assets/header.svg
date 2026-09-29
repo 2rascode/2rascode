@@ -30,10 +30,10 @@ text { font-family: 'Courier New', Consolas, 'Liberation Mono', 'DejaVu Sans Mon
 <g class="crt" filter="url(#glow)">
 <clipPath id="tc"><rect class="type" x="14" y="8" width="0" height="22"/></clipPath>
 <g clip-path="url(#tc)"><text x="16" y="24" class="sm hi" xml:space="preserve">link established...</text></g>
-<text x="480.0" y="24" class="md hi" text-anchor="middle" xml:space="preserve">&lt;&lt;&lt; RUAN BULLETIN BOARD SYSTEM &gt;&gt;&gt;</text>
+<text x="480.0" y="24" class="md hi" text-anchor="middle" xml:space="preserve">&lt;&lt;&lt; BULLETIN BOARD SYSTEM &gt;&gt;&gt;</text>
 <rect x="8" y="34" width="824" height="2" fill="#4fd65a"/>
 <text x="16" y="62" class="md" xml:space="preserve">#  #  #  #  #  #  #    +  +  +</text>
-<text x="420.0" y="62" class="lg hi" text-anchor="middle" xml:space="preserve">A DEV PROFILE GENERATOR</text>
+<text x="420.0" y="62" class="lg hi" text-anchor="middle" xml:space="preserve">A LITTLE DEV</text>
 <text x="824" y="62" class="md" text-anchor="end" xml:space="preserve">+  +  +    #  #  #  #  #  #  #</text>
 <rect x="229.3" y="90.8" width="16.0" height="16.0" fill="#1c4a22"/>
 <rect x="246.3" y="90.8" width="16.0" height="16.0" fill="#1c4a22"/>
