@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="542" viewBox="0 0 840 542">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#0b0a1f"/><stop offset="0.55" stop-color="#2a1552"/><stop offset="1" stop-color="#6a2fb8"/>
+</linearGradient>
+</defs>
+<style>
+text { font-family: 'Courier New', Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace; font-size: 13px; fill: #e9e3ff; }
+.lab { fill: #b79cff; font-weight: 700; } .head { fill: #8fb4ff; font-weight: 700; }
+.dim { fill: #9a90c8; } .ok { fill: #7dffa0; font-weight: 700; }
+.u { font-size: 12px; font-weight: 700; } .u0 { fill: #eceaf5; } .u1 { fill: #8fd8ff; } .u2 { fill: #f0dc8c; }
+.tw { animation: tw 3s ease-in-out infinite; }
+@keyframes tw { 50% { opacity: .15; } }
+.bar { transform-box: fill-box; transform-origin: left; transform: scaleX(0); animation: grow 1.2s ease-out forwards; }
+@keyframes grow { to { transform: scaleX(1); } }
+.fade { opacity: 0; animation: fin .4s ease-out forwards; }
+@keyframes fin { to { opacity: 1; } }
+.blink { animation: blink 1s steps(1) infinite; }
+@keyframes blink { 50% { opacity: 0; } }
+.type { animation: type 1s steps(8) forwards; }
+@keyframes type { from { width: 0; } to { width: 80px; } }
+</style>
+<rect width="840" height="542" fill="url(#sky)"/>
+<circle class="tw" style="animation-delay:0.0s" cx="516" cy="118" r="0.6" fill="#fff" opacity="0.35"/>
+<circle cx="813" cy="316" r="1.0" fill="#fff" opacity="0.47"/>
+<circle cx="538" cy="247" r="1.4" fill="#fff" opacity="0.59"/>
+<circle class="tw" style="animation-delay:1.2s" cx="411" cy="503" r="0.6" fill="#fff" opacity="0.71"/>
+<circle cx="600" cy="437" r="1.0" fill="#fff" opacity="0.83"/>
+<circle cx="361" cy="246" r="1.4" fill="#fff" opacity="0.35"/>
+<circle class="tw" style="animation-delay:2.4s" cx="342" cy="151" r="0.6" fill="#fff" opacity="0.47"/>
+<circle cx="447" cy="104" r="1.0" fill="#fff" opacity="0.59"/>
+<circle cx="36" cy="231" r="1.4" fill="#fff" opacity="0.71"/>
+<circle class="tw" style="animation-delay:0.8s" cx="717" cy="485" r="0.6" fill="#fff" opacity="0.83"/>
+<circle cx="690" cy="51" r="1.0" fill="#fff" opacity="0.35"/>
+<circle cx="707" cy="503" r="1.4" fill="#fff" opacity="0.47"/>
+<circle class="tw" style="animation-delay:2.0s" cx="760" cy="138" r="0.6" fill="#fff" opacity="0.59"/>
+<circle cx="665" cy="287" r="1.0" fill="#fff" opacity="0.71"/>
+<circle cx="86" cy="490" r="1.4" fill="#fff" opacity="0.83"/>
+<circle class="tw" style="animation-delay:0.4s" cx="7" cy="266" r="0.6" fill="#fff" opacity="0.35"/>
+<circle cx="300" cy="513" r="1.0" fill="#fff" opacity="0.47"/>
+<circle cx="45" cy="14" r="1.4" fill="#fff" opacity="0.59"/>
+<circle class="tw" style="animation-delay:1.6s" cx="346" cy="357" r="0.6" fill="#fff" opacity="0.71"/>
+<circle cx="827" cy="469" r="1.0" fill="#fff" opacity="0.83"/>
+<circle cx="512" cy="178" r="1.4" fill="#fff" opacity="0.35"/>
+<circle class="tw" style="animation-delay:0.0s" cx="121" cy="158" r="0.6" fill="#fff" opacity="0.47"/>
+<circle cx="494" cy="82" r="1.0" fill="#fff" opacity="0.59"/>
+<circle cx="647" cy="95" r="1.4" fill="#fff" opacity="0.71"/>
+<circle class="tw" style="animation-delay:1.2s" cx="740" cy="505" r="0.6" fill="#fff" opacity="0.83"/>
+<circle cx="413" cy="71" r="1.0" fill="#fff" opacity="0.35"/>
+<circle cx="626" cy="249" r="1.4" fill="#fff" opacity="0.47"/>
+<circle class="tw" style="animation-delay:2.4s" cx="307" cy="239" r="0.6" fill="#fff" opacity="0.59"/>
+<circle cx="400" cy="503" r="1.0" fill="#fff" opacity="0.71"/>
+<circle cx="609" cy="82" r="1.4" fill="#fff" opacity="0.83"/>
+<circle class="tw" style="animation-delay:0.8s" cx="566" cy="212" r="0.6" fill="#fff" opacity="0.35"/>
+<circle cx="119" cy="194" r="1.0" fill="#fff" opacity="0.47"/>
+<circle cx="76" cy="233" r="1.4" fill="#fff" opacity="0.59"/>
+<circle class="tw" style="animation-delay:2.0s" cx="93" cy="232" r="0.6" fill="#fff" opacity="0.71"/>
+<circle cx="618" cy="401" r="1.0" fill="#fff" opacity="0.83"/>
+<rect x="24" y="22" width="792" height="498" rx="10" fill="#120d26" fill-opacity="0.9" stroke="#3a2d6e"/>
+<path d="M34 22 h772 a10 10 0 0 1 10 10 v24 h-792 v-24 a10 10 0 0 1 10 -10z" fill="#1b1436"/>
+<rect x="34" y="29" width="210" height="27" rx="5" fill="#120d26"/>
+<rect x="44" y="37" width="12" height="11" rx="2" fill="#3b6fd8"/>
+<text x="50" y="46" text-anchor="middle" style="font-size:9px;fill:#fff" xml:space="preserve">&gt;</text>
+<text x="66" y="47" style="font-size:12px" xml:space="preserve">Windows PowerShell 5.1</text>
+<text x="229" y="47" class="dim" xml:space="preserve">×</text>
+<text x="706" y="47" class="dim" xml:space="preserve">—</text>
+<text x="746" y="47" class="dim" xml:space="preserve">□</text>
+<text x="786" y="47" class="dim" xml:space="preserve">×</text>
+<text x="40" y="86" xml:space="preserve">PS C:\Users\visitante&gt;</text>
+<clipPath id="nc"><rect class="type" x="218" y="72" width="0" height="20"/></clipPath>
+<g clip-path="url(#nc)"><text x="220" y="86" xml:space="preserve">neofetch</text></g>
+<g class="fade" style="animation-delay:1.00s"><text x="207" y="118.0" class="u u1">^</text></g>
+<g class="fade" style="animation-delay:1.04s"><text x="207" y="129.0" class="u u0">^</text></g>
+<g class="fade" style="animation-delay:1.08s"><text x="163" y="140.0" class="u u1">^</text><text x="174" y="140.0" class="u u0">^</text><text x="185" y="140.0" class="u u1">^</text><text x="196" y="140.0" class="u u0">^</text><text x="207" y="140.0" class="u u0">^</text><text x="218" y="140.0" class="u u2">^</text><text x="229" y="140.0" class="u u0">^</text><text x="240" y="140.0" class="u u1">^</text><text x="251" y="140.0" class="u u0">^</text></g>
+<g class="fade" style="animation-delay:1.12s"><text x="130" y="151.0" class="u u2">^</text><text x="141" y="151.0" class="u u0">^</text><text x="152" y="151.0" class="u u1">^</text><text x="163" y="151.0" class="u u0">^</text><text x="174" y="151.0" class="u u1">^</text><text x="185" y="151.0" class="u u0">^</text><text x="196" y="151.0" class="u u0">^</text><text x="207" y="151.0" class="u u2">^</text><text x="218" y="151.0" class="u u0">^</text><text x="229" y="151.0" class="u u1">^</text><text x="240" y="151.0" class="u u0">^</text><text x="251" y="151.0" class="u u1">^</text><text x="262" y="151.0" class="u u0">^</text><text x="273" y="151.0" class="u u0">^</text><text x="284" y="151.0" class="u u2">^</text></g>
+<g class="fade" style="animation-delay:1.16s"><text x="108" y="162.0" class="u u0">^</text><text x="119" y="162.0" class="u u2">^</text><text x="130" y="162.0" class="u u0">^</text><text x="141" y="162.0" class="u u1">^</text><text x="152" y="162.0" class="u u0">^</text><text x="163" y="162.0" class="u u1">^</text><text x="174" y="162.0" class="u u0">^</text><text x="185" y="162.0" class="u u0">^</text><text x="196" y="162.0" class="u u2">^</text><text x="207" y="162.0" class="u u0">^</text><text x="218" y="162.0" class="u u1">^</text><text x="229" y="162.0" class="u u0">^</text><text x="240" y="162.0" class="u u1">^</text><text x="251" y="162.0" class="u u0">^</text><text x="262" y="162.0" class="u u0">^</text><text x="273" y="162.0" class="u u2">^</text><text x="284" y="162.0" class="u u0">^</text><text x="295" y="162.0" class="u u1">^</text><text x="306" y="162.0" class="u u0">^</text></g>
+<g class="fade" style="animation-delay:1.20s"><text x="97" y="173.0" class="u u0">^</text><text x="108" y="173.0" class="u u2">^</text><text x="119" y="173.0" class="u u0">^</text><text x="130" y="173.0" class="u u1">^</text><text x="141" y="173.0" class="u u0">^</text><text x="152" y="173.0" class="u u1">^</text><text x="163" y="173.0" class="u u0">^</text><text x="174" y="173.0" class="u u0">^</text><text x="185" y="173.0" class="u u2">^</text><text x="196" y="173.0" class="u u0">^</text><text x="207" y="173.0" class="u u1">^</text><text x="218" y="173.0" class="u u0">^</text><text x="229" y="173.0" class="u u1">^</text><text x="240" y="173.0" class="u u0">^</text><text x="251" y="173.0" class="u u0">^</text><text x="262" y="173.0" class="u u2">^</text><text x="273" y="173.0" class="u u0">^</text><text x="284" y="173.0" class="u u1">^</text><text x="295" y="173.0" class="u u0">^</text><text x="306" y="173.0" class="u u1">^</text><text x="317" y="173.0" class="u u0">^</text></g>
+<g class="fade" style="animation-delay:1.24s"><text x="86" y="184.0" class="u u0">^</text><text x="97" y="184.0" class="u u2">^</text><text x="108" y="184.0" class="u u0">^</text><text x="119" y="184.0" class="u u1">^</text><text x="130" y="184.0" class="u u0">^</text><text x="141" y="184.0" class="u u1">^</text><text x="152" y="184.0" class="u u0">^</text><text x="163" y="184.0" class="u u0">^</text><text x="174" y="184.0" class="u u2">^</text><text x="185" y="184.0" class="u u0">^</text><text x="196" y="184.0" class="u u1">^</text><text x="207" y="184.0" class="u u0">^</text><text x="218" y="184.0" class="u u1">^</text><text x="229" y="184.0" class="u u0">^</text><text x="240" y="184.0" class="u u0">^</text><text x="251" y="184.0" class="u u2">^</text><text x="262" y="184.0" class="u u0">^</text><text x="273" y="184.0" class="u u1">^</text><text x="284" y="184.0" class="u u0">^</text><text x="295" y="184.0" class="u u1">^</text><text x="306" y="184.0" class="u u0">^</text><text x="317" y="184.0" class="u u0">^</text><text x="328" y="184.0" class="u u2">^</text></g>
+<g class="fade" style="animation-delay:1.28s"><text x="75" y="195.0" class="u u0">^</text><text x="86" y="195.0" class="u u2">^</text><text x="97" y="195.0" class="u u0">^</text><text x="108" y="195.0" class="u u1">^</text><text x="119" y="195.0" class="u u0">^</text><text x="130" y="195.0" class="u u1">^</text><text x="141" y="195.0" class="u u0">^</text><text x="152" y="195.0" class="u u0">^</text><text x="163" y="195.0" class="u u2">^</text><text x="174" y="195.0" class="u u0">^</text><text x="185" y="195.0" class="u u1">^</text><text x="196" y="195.0" class="u u0">^</text><text x="207" y="195.0" class="u u1">^</text><text x="218" y="195.0" class="u u0">^</text><text x="229" y="195.0" class="u u0">^</text><text x="240" y="195.0" class="u u2">^</text><text x="251" y="195.0" class="u u0">^</text><text x="262" y="195.0" class="u u1">^</text><text x="273" y="195.0" class="u u0">^</text><text x="284" y="195.0" class="u u1">^</text><text x="295" y="195.0" class="u u0">^</text><text x="306" y="195.0" class="u u0">^</text><text x="317" y="195.0" class="u u2">^</text><text x="328" y="195.0" class="u u0">^</text><text x="339" y="195.0" class="u u1">^</text></g>
+<g class="fade" style="animation-delay:1.32s"><text x="75" y="206.0" class="u u2">^</text><text x="86" y="206.0" class="u u0">^</text><text x="97" y="206.0" class="u u1">^</text><text x="108" y="206.0" class="u u0">^</text><text x="119" y="206.0" class="u u1">^</text><text x="130" y="206.0" class="u u0">^</text><text x="141" y="206.0" class="u u0">^</text><text x="152" y="206.0" class="u u2">^</text><text x="163" y="206.0" class="u u0">^</text><text x="174" y="206.0" class="u u1">^</text><text x="185" y="206.0" class="u u0">^</text><text x="196" y="206.0" class="u u1">^</text><text x="207" y="206.0" class="u u0">^</text><text x="218" y="206.0" class="u u0">^</text><text x="229" y="206.0" class="u u2">^</text><text x="240" y="206.0" class="u u0">^</text><text x="251" y="206.0" class="u u1">^</text><text x="262" y="206.0" class="u u0">^</text><text x="273" y="206.0" class="u u1">^</text><text x="284" y="206.0" class="u u0">^</text><text x="295" y="206.0" class="u u0">^</text><text x="306" y="206.0" class="u u2">^</text><text x="317" y="206.0" class="u u0">^</text><text x="328" y="206.0" class="u u1">^</text><text x="339" y="206.0" class="u u0">^</text></g>
+<g class="fade" style="animation-delay:1.36s"><text x="64" y="217.0" class="u u2">^</text><text x="75" y="217.0" class="u u0">^</text><text x="86" y="217.0" class="u u1">^</text><text x="97" y="217.0" class="u u0">^</text><text x="108" y="217.0" class="u u1">^</text><text x="119" y="217.0" class="u u0">^</text><text x="130" y="217.0" class="u u0">^</text><text x="141" y="217.0" class="u u2">^</text><text x="152" y="217.0" class="u u0">^</text><text x="163" y="217.0" class="u u1">^</text><text x="174" y="217.0" class="u u0">^</text><text x="185" y="217.0" class="u u1">^</text><text x="196" y="217.0" class="u u0">^</text><text x="207" y="217.0" class="u u0">^</text><text x="218" y="217.0" class="u u2">^</text><text x="229" y="217.0" class="u u0">^</text><text x="240" y="217.0" class="u u1">^</text><text x="251" y="217.0" class="u u0">^</text><text x="262" y="217.0" class="u u1">^</text><text x="273" y="217.0" class="u u0">^</text><text x="284" y="217.0" class="u u0">^</text><text x="295" y="217.0" class="u u2">^</text><text x="306" y="217.0" class="u u0">^</text><text x="317" y="217.0" class="u u1">^</text><text x="328" y="217.0" class="u u0">^</text><text x="339" y="217.0" class="u u1">^</text><text x="350" y="217.0" class="u u0">^</text></g>
+<g class="fade" style="animation-delay:1.40s"><text x="64" y="228.0" class="u u0">^</text><text x="75" y="228.0" class="u u1">^</text><text x="86" y="228.0" class="u u0">^</text><text x="97" y="228.0" class="u u1">^</text><text x="108" y="228.0" class="u u0">^</text><text x="119" y="228.0" class="u u0">^</text><text x="130" y="228.0" class="u u2">^</text><text x="141" y="228.0" class="u u0">^</text><text x="152" y="228.0" class="u u1">^</text><text x="163" y="228.0" class="u u0">^</text><text x="174" y="228.0" class="u u1">^</text><text x="185" y="228.0" class="u u0">^</text><text x="196" y="228.0" class="u u0">^</text><text x="207" y="228.0" class="u u2">^</text><text x="218" y="228.0" class="u u0">^</text><text x="229" y="228.0" class="u u1">^</text><text x="240" y="228.0" class="u u0">^</text><text x="251" y="228.0" class="u u1">^</text><text x="262" y="228.0" class="u u0">^</text><text x="273" y="228.0" class="u u0">^</text><text x="284" y="228.0" class="u u2">^</text><text x="295" y="228.0" class="u u0">^</text><text x="306" y="228.0" class="u u1">^</text><text x="317" y="228.0" class="u u0">^</text><text x="328" y="228.0" class="u u1">^</text><text x="339" y="228.0" class="u u0">^</text><text x="350" y="228.0" class="u u0">^</text></g>
+<g class="fade" style="animation-delay:1.44s"><text x="64" y="239.0" class="u u1">^</text><text x="75" y="239.0" class="u u0">^</text><text x="119" y="239.0" class="u u2">^</text><text x="130" y="239.0" class="u u0">^</text><text x="141" y="239.0" class="u u1">^</text><text x="196" y="239.0" class="u u2">^</text><text x="207" y="239.0" class="u u0">^</text><text x="218" y="239.0" class="u u1">^</text><text x="273" y="239.0" class="u u2">^</text><text x="284" y="239.0" class="u u0">^</text><text x="295" y="239.0" class="u u1">^</text><text x="339" y="239.0" class="u u0">^</text><text x="350" y="239.0" class="u u2">^</text></g>
+<g class="fade" style="animation-delay:1.48s"><text x="64" y="250.0" class="u u0">^</text><text x="130" y="250.0" class="u u1">^</text><text x="207" y="250.0" class="u u1">^</text><text x="284" y="250.0" class="u u1">^</text><text x="350" y="250.0" class="u u0">^</text></g>
+<g class="fade" style="animation-delay:1.52s"><text x="207" y="261.0" class="u u0">^</text></g>
+<g class="fade" style="animation-delay:1.56s"><text x="207" y="272.0" class="u u1">^</text></g>
+<g class="fade" style="animation-delay:1.60s"><text x="207" y="283.0" class="u u0">^</text></g>
+<g class="fade" style="animation-delay:1.64s"><text x="207" y="294.0" class="u u0">^</text></g>
+<g class="fade" style="animation-delay:1.68s"><text x="207" y="305.0" class="u u2">^</text></g>
+<g class="fade" style="animation-delay:1.72s"><text x="207" y="316.0" class="u u0">^</text></g>
+<g class="fade" style="animation-delay:1.76s"><text x="207" y="327.0" class="u u1">^</text></g>
+<g class="fade" style="animation-delay:1.80s"><text x="207" y="338.0" class="u u0">^</text></g>
+<g class="fade" style="animation-delay:1.84s"><text x="207" y="349.0" class="u u1">^</text></g>
+<g class="fade" style="animation-delay:1.88s"><text x="207" y="360.0" class="u u0">^</text></g>
+<g class="fade" style="animation-delay:1.92s"><text x="207" y="371.0" class="u u0">^</text></g>
+<g class="fade" style="animation-delay:1.96s"><text x="207" y="382.0" class="u u2">^</text></g>
+<g class="fade" style="animation-delay:2.00s"><text x="207" y="393.0" class="u u0">^</text></g>
+<g class="fade" style="animation-delay:2.04s"><text x="196" y="404.0" class="u u0">^</text><text x="207" y="404.0" class="u u1">^</text><text x="218" y="404.0" class="u u0">^</text></g>
+<g class="fade" style="animation-delay:2.08s"><text x="196" y="415.0" class="u u1">^</text><text x="207" y="415.0" class="u u0">^</text><text x="251" y="415.0" class="u u2">^</text></g>
+<g class="fade" style="animation-delay:2.12s"><text x="196" y="426.0" class="u u0">^</text><text x="207" y="426.0" class="u u1">^</text><text x="218" y="426.0" class="u u0">^</text><text x="240" y="426.0" class="u u2">^</text><text x="251" y="426.0" class="u u0">^</text><text x="262" y="426.0" class="u u1">^</text></g>
+<g class="fade" style="animation-delay:2.16s"><text x="196" y="437.0" class="u u1">^</text><text x="207" y="437.0" class="u u0">^</text><text x="218" y="437.0" class="u u0">^</text><text x="229" y="437.0" class="u u2">^</text><text x="240" y="437.0" class="u u0">^</text><text x="251" y="437.0" class="u u1">^</text><text x="262" y="437.0" class="u u0">^</text></g>
+<g class="fade" style="animation-delay:2.20s"><text x="196" y="448.0" class="u u0">^</text><text x="207" y="448.0" class="u u0">^</text><text x="218" y="448.0" class="u u2">^</text><text x="229" y="448.0" class="u u0">^</text><text x="240" y="448.0" class="u u1">^</text><text x="251" y="448.0" class="u u0">^</text><text x="262" y="448.0" class="u u1">^</text></g>
+<g class="fade" style="animation-delay:2.24s"><text x="207" y="459.0" class="u u2">^</text><text x="218" y="459.0" class="u u0">^</text><text x="229" y="459.0" class="u u1">^</text><text x="240" y="459.0" class="u u0">^</text><text x="251" y="459.0" class="u u1">^</text></g>
+<g class="fade" style="animation-delay:1.4s"><text x="607.5" y="138" class="head" text-anchor="middle" xml:space="preserve">Hey, visitante!</text></g>
+<g class="fade" style="animation-delay:1.6s">
+<path d="M431 168 h353 M431 168 v78 h353 v-78" stroke="#6f63b8" fill="none"/>
+<rect x="575.5" y="160" width="64" height="16" fill="#120d26"/>
+<text x="607.5" y="172" class="head" text-anchor="middle" xml:space="preserve">Perfil</text>
+<text x="429" y="192" class="dim" xml:space="preserve">├─</text>
+<text x="451" y="192" class="lab" xml:space="preserve">USER</text>
+<text x="551" y="192" xml:space="preserve">Ruan</text>
+<text x="429" y="212" class="dim" xml:space="preserve">├─</text>
+<text x="451" y="212" class="lab" xml:space="preserve">CLASS</text>
+<text x="551" y="212" xml:space="preserve">Estudante</text>
+<text x="429" y="232" class="dim" xml:space="preserve">├─</text>
+<text x="451" y="232" class="lab" xml:space="preserve">UNIV</text>
+<text x="551" y="232" xml:space="preserve">UFFS</text>
+</g>
+<g class="fade" style="animation-delay:1.7s"><text x="451" y="266" class="dim" style="font-size:11.5px" xml:space="preserve">Universidade Federal da Fronteira Sul</text></g>
+<g class="fade" style="animation-delay:1.9s">
+<path d="M431 302 h353 M431 302 v138 h353 v-138" stroke="#6f63b8" fill="none"/>
+<rect x="579.5" y="294" width="56" height="16" fill="#120d26"/>
+<text x="607.5" y="306" class="head" text-anchor="middle" xml:space="preserve">Stack</text>
+<text x="429" y="326" class="dim" xml:space="preserve">├─</text>
+<text x="451" y="326" class="lab" xml:space="preserve">HTML</text>
+<rect x="551" y="316" width="153" height="10" fill="none" stroke="#6f63b8"/><rect class="bar" style="animation-delay:2.00s" x="553" y="318" width="149" height="6" fill="#b79cff"/><text x="716" y="326" class="ok" xml:space="preserve">[ OK ]</text>
+<text x="429" y="346" class="dim" xml:space="preserve">├─</text>
+<text x="451" y="346" class="lab" xml:space="preserve">CSS</text>
+<rect x="551" y="336" width="153" height="10" fill="none" stroke="#6f63b8"/><rect class="bar" style="animation-delay:2.20s" x="553" y="338" width="149" height="6" fill="#b79cff"/><text x="716" y="346" class="ok" xml:space="preserve">[ OK ]</text>
+<text x="429" y="366" class="dim" xml:space="preserve">├─</text>
+<text x="451" y="366" class="lab" xml:space="preserve">JAVASCRIPT</text>
+<rect x="551" y="356" width="153" height="10" fill="none" stroke="#6f63b8"/><rect class="bar" style="animation-delay:2.40s" x="553" y="358" width="149" height="6" fill="#b79cff"/><text x="716" y="366" class="ok" xml:space="preserve">[ OK ]</text>
+<text x="429" y="386" class="dim" xml:space="preserve">├─</text>
+<text x="451" y="386" class="lab" xml:space="preserve">PYTHON</text>
+<rect x="551" y="376" width="153" height="10" fill="none" stroke="#6f63b8"/><rect class="bar" style="animation-delay:2.60s" x="553" y="378" width="149" height="6" fill="#b79cff"/><text x="716" y="386" class="ok" xml:space="preserve">[ OK ]</text>
+<text x="429" y="406" class="dim" xml:space="preserve">├─</text>
+<text x="451" y="406" class="lab" xml:space="preserve">GIT</text>
+<rect x="551" y="396" width="153" height="10" fill="none" stroke="#6f63b8"/><rect class="bar" style="animation-delay:2.80s" x="553" y="398" width="149" height="6" fill="#b79cff"/><text x="716" y="406" class="ok" xml:space="preserve">[ OK ]</text>
+<text x="429" y="426" class="dim" xml:space="preserve">├─</text>
+<text x="451" y="426" class="lab" xml:space="preserve">GITHUB</text>
+<rect x="551" y="416" width="153" height="10" fill="none" stroke="#6f63b8"/><rect class="bar" style="animation-delay:3.00s" x="553" y="418" width="149" height="6" fill="#b79cff"/><text x="716" y="426" class="ok" xml:space="preserve">[ OK ]</text>
+</g>
+<circle class="fade" style="animation-delay:3.30s" cx="537.5" cy="470" r="4" fill="#ffffff"/>
+<circle class="fade" style="animation-delay:3.38s" cx="557.5" cy="470" r="4" fill="#c9c9d9"/>
+<circle class="fade" style="animation-delay:3.46s" cx="577.5" cy="470" r="4" fill="#7fe3ff"/>
+<circle class="fade" style="animation-delay:3.54s" cx="597.5" cy="470" r="4" fill="#ff7ad9"/>
+<circle class="fade" style="animation-delay:3.62s" cx="617.5" cy="470" r="4" fill="#b36bff"/>
+<circle class="fade" style="animation-delay:3.70s" cx="637.5" cy="470" r="4" fill="#ffd966"/>
+<circle class="fade" style="animation-delay:3.78s" cx="657.5" cy="470" r="4" fill="#ff9b54"/>
+<circle class="fade" style="animation-delay:3.86s" cx="677.5" cy="470" r="4" fill="#ff5c6c"/>
+<text x="40" y="500" xml:space="preserve">PS C:\Users\visitante&gt;</text>
+<rect class="blink" x="222" y="489" width="8" height="14" fill="#e9e3ff"/>
+</svg>

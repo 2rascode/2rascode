@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="80" viewBox="0 0 840 80">
+<defs>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+  <rect width="4" height="2" fill="#000" opacity="0.25"/>
+</pattern>
+<filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+  <feGaussianBlur stdDeviation="1.4" result="b"/>
+  <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+</defs>
+<style>
+text { font-family: 'Courier New', Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace; fill: #4fd65a; font-weight: 700; font-size: 13px; }
+.hi { fill: #8dff8a; } .dim { fill: #1c4a22; }
+.crt { animation: flick 7s infinite; }
+@keyframes flick { 0%,92%,94%,100% {opacity:1} 93% {opacity:.75} }
+.px { opacity: 0; animation: on .05s steps(1) forwards; }
+@keyframes on { to { opacity: 1; } }
+.blink { animation: blink 1s steps(1) infinite; }
+@keyframes blink { 50% { opacity: 0; } }
+</style>
+<rect width="840" height="80" fill="#040804"/>
+<g class="crt" filter="url(#glow)">
+<rect x="40" y="14" width="760" height="1.5" fill="#1c4a22"/>
+<text x="420.0" y="38" class="hi" text-anchor="middle" xml:space="preserve">OK, all done. Enjoy another fine BY RUAN Presents !!</text>
+<text x="40" y="66" xml:space="preserve">Press any key to continue . . .</text>
+</g>
+<rect class="blink" x="298" y="56" width="9" height="12" fill="#4fd65a"/>
+<rect width="840" height="80" fill="url(#scan)"/>
+</svg>
